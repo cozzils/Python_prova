@@ -1,3 +1,8 @@
 ciao = 12 
-print(ciao)
+ola = 23
 
+if ciao == 123:
+    print(ciao)
+else:
+    print(ola)
+    
